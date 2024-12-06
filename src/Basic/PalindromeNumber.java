@@ -16,9 +16,9 @@ public class PalindromeNumber {
 				num = num / 10;
 			}
 			if (rev == temp) {
-				return "Its a Palindrome Number";
+				return "Its a Palindrome Number ";
 			} else {
-				return "Its not a Palindrome Number";
+				return "Its not a Palindrome Number ";
 			}
 		} else {
 			return "Not a palindrome number";
